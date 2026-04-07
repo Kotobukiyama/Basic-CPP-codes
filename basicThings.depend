@@ -4,13 +4,13 @@
 
 1775487873 d:\projetos de programas\cpp\basicthings\mathformulas.h
 
-1775583171 source:d:\projetos de programas\cpp\basicthings\main.cpp
+1775583648 source:d:\projetos de programas\cpp\basicthings\main.cpp
 	"mathFormulas.h"
 	"calculator.h"
 	<iostream>
 
-1775583020 source:d:\projetos de programas\cpp\basicthings\calculator.cpp
+1775583648 source:d:\projetos de programas\cpp\basicthings\calculator.cpp
 	<iostream>
 
-1775582819 d:\projetos de programas\cpp\basicthings\calculator.h
+1775583648 d:\projetos de programas\cpp\basicthings\calculator.h
 
