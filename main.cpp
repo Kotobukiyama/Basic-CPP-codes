@@ -1,19 +1,28 @@
 //For now, this program only sums two numbers
-
 #include "mathFormulas.h"
+#include "calculator.h"
 #include <iostream>
 
 int main()
 {
-    std::cout << "Choose an number: ";
+    std::cout << "List of simple things this program can do: \n";
+    std::cout << "[1] Calculator\n";
+    std::cout << "\nChoose a number: ";
     int x{};
     std::cin >> x;
 
-    std::cout << "Choose an number: ";
-    int y{};
-    std::cin >> y;
+    if (x == 1)
+    {
+        std::cout << '\n';
+        calculator();
+        std::cout << '\n';
+    }
+    else
+    {
+        std::cout << '\n';
+        std::cout << "I still haven't implemented this :/\n";
+    }
 
-    std::cout << "The sum of these two numbers is: " << add(x, y) << '\n';
 
     return 0;
 }

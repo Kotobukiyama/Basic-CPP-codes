@@ -1,0 +1,6 @@
+#ifndef CALCULATOR_H_INCLUDED
+#define CALCULATOR_H_INCLUDED
+
+int calculator();
+
+#endif // CALCULATOR_H_INCLUDED
