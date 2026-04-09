@@ -1,0 +1,6 @@
+#ifndef EVENORODD_H_INCLUDED
+#define EVENORODD_H_INCLUDED
+
+int evenOdd();
+
+#endif // EVENORODD_H_INCLUDED

@@ -1,16 +1,22 @@
 # depslib dependency file v1.0
-1775487973 source:d:\projetos de programas\cpp\basicthings\mathformulas.cpp
+1775583836 source:d:\projetos de programas\cpp\basicthings\mathformulas.cpp
 	"mathFormulas.h"
 
-1775487873 d:\projetos de programas\cpp\basicthings\mathformulas.h
+1775583836 d:\projetos de programas\cpp\basicthings\mathformulas.h
 
-1775583648 source:d:\projetos de programas\cpp\basicthings\main.cpp
+1775743953 source:d:\projetos de programas\cpp\basicthings\main.cpp
 	"mathFormulas.h"
 	"calculator.h"
+	"evenOrOdd.h"
 	<iostream>
 
-1775583648 source:d:\projetos de programas\cpp\basicthings\calculator.cpp
+1775743876 source:d:\projetos de programas\cpp\basicthings\calculator.cpp
 	<iostream>
 
-1775583648 d:\projetos de programas\cpp\basicthings\calculator.h
+1775583836 d:\projetos de programas\cpp\basicthings\calculator.h
+
+1775743894 source:d:\projetos de programas\cpp\basicthings\evenorodd.cpp
+	<iostream>
+
+1775743708 d:\projetos de programas\cpp\basicthings\evenorodd.h
 

@@ -6,7 +6,7 @@ int calculator()
     std::cout << "----------- CALCULATOR -----------\n";
 
     //We wanna know witch operation the user wants
-    std::cout << "Choose between +, -, *, /: ";
+    std::cout << "\nChoose between +, -, *, /: ";
     char op{};
     std::cin >> op;
 
@@ -45,7 +45,7 @@ int calculator()
         break;
     }
 
-    std::cout << "----------------------------------";
+    std::cout << "\n----------------------------------";
 
     return 0;
 }
