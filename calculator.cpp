@@ -1,3 +1,4 @@
+#include "calculator.h"
 #include <iostream>
 //This file is for the calculator of this simple project
 
