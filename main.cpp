@@ -13,22 +13,27 @@ int main()
     std::cout << "List of simple things this program can do: \n";
     std::cout << "[1] Calculator\n";
     std::cout << "[2] Even or odd checker\n";
+    std::cout << "[3] Number Guesser game\n";
     std::cout << "\nChoose a number: ";
     int x{};
     std::cin >> x;
 
-    numGuesser();
-    /*
     if (x == 1)
     {
         std::cout << '\n';
         calculator();
         std::cout << '\n';
     }
-    if (x == 2)
+    else if (x == 2)
     {
         std::cout << '\n';
         evenOdd();
+        std::cout << '\n';
+    }
+    else if (x == 3)
+    {
+        std::cout << '\n';
+        numGuesser();
         std::cout << '\n';
     }
     else
@@ -36,7 +41,6 @@ int main()
         std::cout << '\n';
         std::cout << "I still haven't implemented this :/\n";
     }
-*/
 
     return 0;
 }

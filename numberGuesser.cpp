@@ -26,6 +26,11 @@ int numGuesser()
         std::cin >> guess;
         tries ++;
 
+        if (!guess)
+        {
+            std::cout << "Error, enter a number!\n";
+            std::cout << '\n';
+        }
         if (guess > 100)
         {
             std::cout << "This number is higher than 100! >:[ Guess LOWER!\n";

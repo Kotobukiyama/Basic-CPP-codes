@@ -11,17 +11,19 @@
 	"numberGuesser.h"
 	<iostream>
 
-1775744329 source:d:\projetos de programas\cpp\basicthings\calculator.cpp
+1776169690 source:d:\projetos de programas\cpp\basicthings\calculator.cpp
+	"calculator.h"
 	<iostream>
 
 1775583836 d:\projetos de programas\cpp\basicthings\calculator.h
 
-1775744329 source:d:\projetos de programas\cpp\basicthings\evenorodd.cpp
+1776169690 source:d:\projetos de programas\cpp\basicthings\evenorodd.cpp
+	"evenOrOdd.h"
 	<iostream>
 
 1775744329 d:\projetos de programas\cpp\basicthings\evenorodd.h
 
-1776169619 source:d:\projetos de programas\cpp\basicthings\numberguesser.cpp
+1776170024 source:d:\projetos de programas\cpp\basicthings\numberguesser.cpp
 	"numberGuesser.h"
 	<iostream>
 	<cstdlib>
