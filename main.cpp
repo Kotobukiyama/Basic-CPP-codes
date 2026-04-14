@@ -5,6 +5,7 @@
 #include "mathFormulas.h"
 #include "calculator.h"
 #include "evenOrOdd.h"
+#include "numberGuesser.h"
 #include <iostream>
 
 int main()
@@ -16,6 +17,8 @@ int main()
     int x{};
     std::cin >> x;
 
+    numGuesser();
+    /*
     if (x == 1)
     {
         std::cout << '\n';
@@ -33,7 +36,7 @@ int main()
         std::cout << '\n';
         std::cout << "I still haven't implemented this :/\n";
     }
-
+*/
 
     return 0;
 }

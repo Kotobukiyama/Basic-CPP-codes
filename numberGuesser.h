@@ -1,0 +1,6 @@
+#ifndef NUMBERGUESSER_H_INCLUDED
+#define NUMBERGUESSER_H_INCLUDED
+
+int numGuesser();
+
+#endif // NUMBERGUESSER_H_INCLUDED

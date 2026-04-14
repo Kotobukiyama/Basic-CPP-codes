@@ -34,9 +34,12 @@
 		</Compiler>
 		<Unit filename="calculator.cpp" />
 		<Unit filename="calculator.h" />
+		<Unit filename="evenOrOdd.cpp" />
+		<Unit filename="evenOrOdd.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="mathFormulas.cpp" />
 		<Unit filename="mathFormulas.h" />
+		<Unit filename="numberGuesser.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

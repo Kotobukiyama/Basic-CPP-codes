@@ -4,19 +4,28 @@
 
 1775583836 d:\projetos de programas\cpp\basicthings\mathformulas.h
 
-1775743953 source:d:\projetos de programas\cpp\basicthings\main.cpp
+1776168217 source:d:\projetos de programas\cpp\basicthings\main.cpp
 	"mathFormulas.h"
 	"calculator.h"
 	"evenOrOdd.h"
+	"numberGuesser.h"
 	<iostream>
 
-1775743876 source:d:\projetos de programas\cpp\basicthings\calculator.cpp
+1775744329 source:d:\projetos de programas\cpp\basicthings\calculator.cpp
 	<iostream>
 
 1775583836 d:\projetos de programas\cpp\basicthings\calculator.h
 
-1775743894 source:d:\projetos de programas\cpp\basicthings\evenorodd.cpp
+1775744329 source:d:\projetos de programas\cpp\basicthings\evenorodd.cpp
 	<iostream>
 
-1775743708 d:\projetos de programas\cpp\basicthings\evenorodd.h
+1775744329 d:\projetos de programas\cpp\basicthings\evenorodd.h
+
+1776169372 source:d:\projetos de programas\cpp\basicthings\numberguesser.cpp
+	"numberGuesser.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1776168172 d:\projetos de programas\cpp\basicthings\numberguesser.h
 
