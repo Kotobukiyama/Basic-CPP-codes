@@ -8,8 +8,13 @@
 #include "numberGuesser.h"
 #include <iostream>
 
+#define NEW_THING
+
 int main()
 {
+
+
+#ifdef NEW_THING
     std::cout << "List of simple things this program can do: \n";
     std::cout << "[1] Calculator\n";
     std::cout << "[2] Even or odd checker\n";
@@ -41,6 +46,7 @@ int main()
         std::cout << '\n';
         std::cout << "I still haven't implemented this :/\n";
     }
+#endif // NEW_THING
 
     return 0;
 }
