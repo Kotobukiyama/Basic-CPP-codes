@@ -28,7 +28,7 @@ int evenOdd()
         std::cout << "The number " << num << " is an ODD number!\n";
     }
 
-    std::cout << "\n----------------------------------";
+    std::cout << "\n-----------------------------------";
 
     return 0;
 }
