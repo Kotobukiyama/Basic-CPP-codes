@@ -39,6 +39,8 @@
 		<Unit filename="main.cpp" />
 		<Unit filename="mathFormulas.cpp" />
 		<Unit filename="mathFormulas.h" />
+		<Unit filename="multiplicationTable.cpp" />
+		<Unit filename="multiplicationTable.h" />
 		<Unit filename="numberGuesser.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
