@@ -4,7 +4,7 @@
 
 1775583838 d:\projetos de programas\cpp\basicthings\mathformulas.h
 
-1776646062 source:d:\projetos de programas\cpp\basicthings\main.cpp
+1778034536 source:d:\projetos de programas\cpp\basicthings\main.cpp
 	"mathFormulas.h"
 	"calculator.h"
 	"evenOrOdd.h"
@@ -12,28 +12,28 @@
 	"multiplicationTable.h"
 	<iostream>
 
-1776354422 source:d:\projetos de programas\cpp\basicthings\calculator.cpp
+1778034536 source:d:\projetos de programas\cpp\basicthings\calculator.cpp
 	"calculator.h"
 	<iostream>
 
 1775583838 d:\projetos de programas\cpp\basicthings\calculator.h
 
-1776645684 source:d:\projetos de programas\cpp\basicthings\evenorodd.cpp
+1778034536 source:d:\projetos de programas\cpp\basicthings\evenorodd.cpp
 	"evenOrOdd.h"
 	<iostream>
 
-1775744330 d:\projetos de programas\cpp\basicthings\evenorodd.h
+1778034536 d:\projetos de programas\cpp\basicthings\evenorodd.h
 
-1776645650 source:d:\projetos de programas\cpp\basicthings\numberguesser.cpp
+1778034536 source:d:\projetos de programas\cpp\basicthings\numberguesser.cpp
 	"numberGuesser.h"
 	<iostream>
 	<cstdlib>
 	<ctime>
 
-1776354422 d:\projetos de programas\cpp\basicthings\numberguesser.h
+1778034536 d:\projetos de programas\cpp\basicthings\numberguesser.h
 
-1776645194 d:\projetos de programas\cpp\basicthings\multiplicationtable.h
+1778034536 d:\projetos de programas\cpp\basicthings\multiplicationtable.h
 
-1776645955 source:d:\projetos de programas\cpp\basicthings\multiplicationtable.cpp
+1778034536 source:d:\projetos de programas\cpp\basicthings\multiplicationtable.cpp
 	<iostream>
 
